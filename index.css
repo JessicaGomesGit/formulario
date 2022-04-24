@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 20px rgba(124, 50, 50, 0.65);
+    color: #575757;
+}
+
+.logo {
+    position: absolute;
+    width: 209px;
+    height: 104px;
+    left: 19px;
+    top: 9px;
+}
+
+.categoria1 {
+    position: absolute;
+    width: 269px;
+    height: 34px;
+    left: 710px;
+    top: 44px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+
+
+}
+
+.categoria2 {
+    position: absolute;
+    width: 122px;
+    height: 33px;
+    left: 1002px;
+    top: 45px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.categoria3 {
+    position: absolute;
+    width: 91px;
+    height: 33px;
+    left: 1150px;
+    top: 45px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.tituloformulario {
+    margin-bottom: 70px;
+  margin-top: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    line-height: 53px;
+
+    color: #575757;
+}
+.facaparte{
+    margin-left:60px;
+}
+.textoformulario {
+    margin-left: 60px;
+    width: 40%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9B9B9B;
+
+}
+.custom-input{
+    width: 100%;
+  border: 1px solid #9B9B9B;
+  height: 19px;
+}
+.custom-select{
+    width: 100%;
+  border: 1px solid #9B9B9B;
+  height: 22px;
+    
+}
+.texto {
+    position: absolute;
+    width: 464px;
+    height: 448px;
+    left: 750px;
+    bottom: 1px;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #575757;
+}
+.enviar{
+    background-color: #C2185B;
+    width: 100%;
+    height: 33px;
+    color: #FFFFFF;
+    border:0px;
+}
+.upload{
+    width:80px;
+    background-color: #C4C4C4;
+    color:#FFFFFF;
+    border:0px;
+}
+footer{
+    background-color: #C2185B;
+    height: 250px;
+    color:#FFFFFF;
+    
+    font-family: 'Open Sans';
+}
+
+.rodape {
+    display: flex;
+
+}
+
+.resumo{
+    display: flex;
+}
+.info-rodape{
+    margin-top: 80px;
+    display: flex;
+
+}
+.categorias{
+    margin-left: 150px;
+}
+.institucional{
+margin-left: 300px;
+}
+.titulocateg{
+    font-weight: 600;
+
+    
+}
+.box-logo{
+    margin-left: 100px;
+
+}
